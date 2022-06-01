@@ -12,15 +12,15 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6281252848955']
+global.owner = ['6285713848184']
 global.premium = ['0']
-global.ownername = 'Zetaa'
-global.botname = 'Zets Public'
-global.packname = '© ZETS - MULTI DEVICE'
-global.gc = 'https://bit.ly/3KMlmv2'
+global.ownername = 'DevaOfc'
+global.botname = 'DevaBotz'
+global.packname = '© DevaBotz - MULTI DEVICE'
+global.gc = 'Ga Punya ^_^'
 global.limitawal = '100'
-global.author = '@naando.jpeg\n@alya.xzy'
-global.sessionName = 'sessionya'
+global.author = '@DevaTamvan\n@DevaTamvan'
+global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⌕'
 global.mess = {
