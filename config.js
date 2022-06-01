@@ -40,7 +40,7 @@ global.limitawal = {
 }
 global.sc = fs.readFileSync('./media/sc.jpg')
 global.tq = fs.readFileSync('./media/tq.jpg')
-global.menu = fs.readFileSync('./media/menu.jpg')
+global.menu = fs.readFileSync('./media/null-20220531-WA0022.jpg')
 global.allmenu = fs.readFileSync('./media/allmenu.jpg')
 global.thumb = fs.readFileSync('./media/pepe.jpg')
 global.visoka = { url: 'https://telegra.ph/file/769d88bb8c8357546a149.mp4' }
